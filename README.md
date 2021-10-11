@@ -25,9 +25,9 @@
       <ul>
         <li><a href="#arp-scan">ARP Scan</a></li>
         <li><a href="#tcp-scan">TCP Scan</a></li>
+        <li><a href="#common-errors">Common Errors</a></li>
       </ul>
     </li>
-   <li><a href="#common-errors">Common Errors</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
