@@ -20,6 +20,9 @@
     </li>
       <li><a href="#prerequisites">Getting Started</a></li>
       <li><a href="#prerequisites">Prerequisites</a></li>
+    <ul>
+        <li><a href="#cloning">Cloning</a></li>
+      </ul>
     <li>
       <a href="#usage">Usage</a>
       <ul>
@@ -49,6 +52,17 @@ Install :
 * Scapy 
 ```sh
    pip install scapy
+   ```
+### Cloning
+1. Open terminal
+2. Go to your desired directory
+3. Clone the repo
+   ```sh
+   git clone https://github.com/0xr4Gn4R/N-Scan.git
+   ```
+3. Get into the directory
+   ```sh
+   cd N-Scan
    ```
 
 <!-- USAGE -->
