@@ -39,7 +39,7 @@
  
 <!-- GETTING STARTED -->
 ## Getting Started
-You can use the scirpt for scanning your local network. Network scanning helps to detect all the active hosts on a network and maps them to their IP addresses.
+You can use the scirpt for scanning your local network. Network scanning helps to detect all the active hosts on a network and maps them to their IP addresses. Here we use ARP and TCP scan to scan for active devices and their ports.
 
 <!-- PREREQUISITES -->
 ## Prerequisites
@@ -105,7 +105,7 @@ See https://stackoverflow.com/questions/55881295/l3packetsocket-object-has-no-at
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you is *highly appreciated*.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make is *highly appreciated*.
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/NewFeature`)
