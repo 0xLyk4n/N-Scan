@@ -46,6 +46,10 @@ You can use the scirpt for scanning your local network. Network scanning helps t
 These are the things you need to perform in order to use it.  
 Install :
 * [Python 3](https://www.python.org/download/releases/3.0/)
+* Scapy 
+```sh
+   pip install scapy
+   ```
 
 <!-- USAGE -->
 ## Usage
